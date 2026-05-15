@@ -14,20 +14,20 @@ The goal of this project was to identify, exploit, and remediate critical securi
 * **Focus:** Automated and manual penetration testing to identify system weaknesses.
 * **Key Findings:** Identified critical flaws including `SQL Injection`, `Command Injection`, and `Stored XSS`.
 * **Tools Used:** OWASP ZAP, Nmap, Burp Suite.
-* **Deliverable:** [📄 View Week 1 Report](.Week_01--Security_Assessment_Report_W1.pdf)
+* **Deliverable:** [📄 View Week 1 Report](https://github.com/Arab-Hammad/Hackazone-Security-Assessment-Project/blob/main/Week_01--Security_Assessment_Report_W1.pdf)
 
 ### 🛡️ [Week 02: Mitigation & Hardening]
 * **Focus:** Implementing technical defenses and closing identified security gaps.
 * **Measures Taken:** * Configured **JWT Authentication** for secure session management.
     * Implemented **RBAC** (Role-Based Access Control) to restrict unauthorized access.
     * Deployed **Helmet.js** to secure HTTP headers.
-* **Deliverable:** [📄 View Week 2 Report](.Week_02--Vulnerability_Mitigation_Report_W2.pdf)
+* **Deliverable:** [📄 View Week 2 Report](https://github.com/Arab-Hammad/Hackazone-Security-Assessment-Project/blob/main/Week_02--Vulnerability_Mitigation_Report_W2.pdf.pdf)
 
 ### 📋 [Week 03: Auditing & Final Reporting]
 * **Focus:** Post-remediation testing, verification of fixes, and system monitoring.
 * **Implementation:** * Established a secure **Logging System** using the **Winston** library.
     * Conducted final audits to ensure all vulnerabilities were successfully mitigated.
-* **Deliverable:** [📄 View Week 3 Report](.Week_03--Final_Security_Audit_Report_W3.pdf)
+* **Deliverable:** [📄 View Week 3 Report](https://github.com/Arab-Hammad/Hackazone-Security-Assessment-Project/blob/main/Week_03--Final_Security_Audit_Report_W3.pdf.pdf)
 
 ---
 
